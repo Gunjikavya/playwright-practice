@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","11536","Perform actions after login","chromium","2026-06-15","passed","2026-06-15","","login.spec.ts","",""
+"","4922","Google Test","chromium","2026-06-15","passed","2026-06-15","","google.spec.js","",""
+"","20802","Perform actions after login","firefox","2026-06-15","passed","2026-06-15","","login.spec.ts","",""
+"","5803","Google Test","firefox","2026-06-15","passed","2026-06-15","","google.spec.js","",""
+"","11618","Auto Login","chromium","2026-06-15","passed","2026-06-15","","test1.spec.ts","",""
+"","12033","Auto Login","firefox","2026-06-15","passed","2026-06-15","","test1.spec.ts","",""
